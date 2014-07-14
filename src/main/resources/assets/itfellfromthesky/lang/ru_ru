@@ -1,0 +1,15 @@
+itemGroup.itfellfromthesky=Это упало с неба
+tile.compactPorkchop.name=Компактная свинина
+itfellfromthesky.desc_compactPorkchop1=Поставь и кликни правой кнопкой мыши звездой ада.
+itfellfromthesky.desc_compactPorkchop2=...или раскрафть.
+itfellfromthesky.desc_compactPorkchop3=ЙА ТУЛТИПА,
+itfellfromthesky.desc_compactPorkchop4=не коп.
+itfellfromthesky.hailPigzilla.hail=Град 
+itfellfromthesky.hailPigzilla.hydra=Гидра
+itfellfromthesky.hailPigzilla.pigzilla= СВИНЗИЛЛА!
+itfellfromthesky.hailPigzilla.location=Он в  
+itfellfromthesky.summonRequiresOp=Чтобы призвать великого СВИНЗИЛЛУ вам нужна админка !
+itfellfromthesky.config.cat.gameplay.name=Геймплэй
+itfellfromthesky.config.cat.gameplay.comment=Эти опции влияют на геймплэй мода.
+itfellfromthesky.config.prop.summonPigzillaNeedsOp.name=Нужна ли админка для призыва великого СВИНЗИЛЛА?
+itfellfromthesky.config.prop.summonPigzillaNeedsOp.comment=Нужна ли админка для призыва великого СВИНЗИЛЛА?
